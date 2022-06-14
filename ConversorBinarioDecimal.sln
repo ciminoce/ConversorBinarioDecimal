@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorBinarioDecimal.Consola", "ConversorBinarioDecimal.Consola\ConversorBinarioDecimal.Consola.csproj", "{D124B4E4-320B-453A-B38E-2767C0A2BB3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorBinarioDecimal", "ConversorBinarioDecimal\ConversorBinarioDecimal.csproj", "{7DBC94D8-AADE-41B4-A9DB-CC1BAE245863}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D124B4E4-320B-453A-B38E-2767C0A2BB3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D124B4E4-320B-453A-B38E-2767C0A2BB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D124B4E4-320B-453A-B38E-2767C0A2BB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D124B4E4-320B-453A-B38E-2767C0A2BB3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DBC94D8-AADE-41B4-A9DB-CC1BAE245863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DBC94D8-AADE-41B4-A9DB-CC1BAE245863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DBC94D8-AADE-41B4-A9DB-CC1BAE245863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DBC94D8-AADE-41B4-A9DB-CC1BAE245863}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93E7C826-1D13-4AA8-AF81-F96257B40D40}
+	EndGlobalSection
+EndGlobal
